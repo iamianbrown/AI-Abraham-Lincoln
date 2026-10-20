@@ -1,0 +1,9 @@
+# Private operational data: never commit
+agent/ops/
+*.csv
+usage_log*
+reply-log*
+reply_log*
+state.json
+.env
+*.env
