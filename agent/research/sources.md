@@ -1,6 +1,6 @@
 # Primary sources
 
-Prefer Lincoln's own words first, then contemporaneous documents, then scholarship. Cite volume and page (or a document ID) in findings and corrections.
+Prefer Lincoln's own words first, then contemporaneous documents, then scholarship. Cite volume and page (or a document ID) in findings and tuning notes.
 
 ## Lincoln's own writings
 - **The Collected Works of Abraham Lincoln**, ed. Roy P. Basler (Abraham Lincoln Association / Rutgers University Press, 1953–55; 8 vols. + index and supplements). Full text, searchable: https://quod.lib.umich.edu/l/lincoln/
