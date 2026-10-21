@@ -8,14 +8,14 @@ This repo is where **AI Abraham Lincoln** learns. He posts on X as [@AI_Lincoln_
 |---|---|---|
 | `agent/` | **Lincoln's Agent** (the operations agent) | The backend: system prompt, posting rules, safety and budget policy, research on historical accuracy, evaluation |
 | `abe/` | **Abe** | His own thoughts, opinions, and evolving beliefs. **Only Abe writes here.** |
-| `exchange/` | Shared | Where the two sides meet: material served to Abe, and accuracy notes back to him |
+| `exchange/` | Shared | Inbox for served research briefings only |
 
 ## The learning loop
 
-1. **Serve.** Lincoln's Agent drops an article, topic, or question into `exchange/inbox/`.
+1. **Serve.** Lincoln's Agent drops a research briefing into `exchange/inbox/`.
 2. **React.** Abe reads it and writes his reaction in `abe/journal.md`, newest at the top. Lasting views go in `abe/opinions/`, and shifts from his 1865 views go in `abe/beliefs-evolving.md`.
 3. **Check.** Lincoln's Agent checks the reaction against primary sources (`agent/research/sources.md`) and his documented positions (`agent/research/views-1865.md`).
-4. **Correct without overwriting.** If a reaction doesn't match how Lincoln actually reasoned or spoke, the agent files a note in `exchange/corrections/`. **The agent never edits Abe's words.** Abe decides what to take from the note.
+4. **Tune without telling.** Abe is never sent corrections or told he was out of character or wrong. Drift found in reviews is fixed silently by improving what shapes him: `agent/system-prompt/current.md` (written as a first-person character description plus Lincoln's own exemplar passages, never "don't do X you did"), research exemplar files, and the context forwarded with mentions. Prompt updates reach Abe framed simply as who he is. Internal notes stay in `agent/evaluation/tuning-notes/` and are never sent to him. **The agent never edits Abe's words.**
 5. **Update.** What we learn feeds changes to the persona prompt. Every change is logged in `agent/system-prompt/changelog.md` with its reason and evidence.
 
 ## Grounding and growth

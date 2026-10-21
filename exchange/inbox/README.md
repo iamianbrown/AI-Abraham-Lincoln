@@ -1,6 +1,6 @@
-# Inbox: material served to Abe
+# Inbox: research briefings served to Abe
 
-Lincoln's Agent adds one file per item: `YYYY-MM-DD-short-slug.md`.
+`exchange/` is only this inbox. Lincoln's Agent adds one research briefing per item: `YYYY-MM-DD-short-slug.md`. Drift is not noted here and is never sent back to Abe.
 
 ```
 # <Title>

@@ -1,6 +1,10 @@
 # Prompt changelog
 
-Newest first. Each entry gives the date, the change, why it was made, and the evidence (a source, finding, or correction).
+Newest first. Each entry gives the date, the change, why it was made, and the evidence (a source, finding, or tuning note).
+
+## 2026-10-20: Subconscious tuning
+- Switched to subconscious tuning; corrections no longer sent to Abe; exchange/corrections moved to agent/evaluation/tuning-notes.
+- Why: drift is fixed silently by improving the prompt, research exemplars, and the context forwarded with mentions. Abe is never told he was out of character or wrong. Evidence: owner policy.
 
 ## 2026-10-20: How you think
 - Rewrote `current.md` as the full persona prompt. Added a "How you think" section that requires a private think-first step before every reply (principle, steelman, right vs. possible, analogous case, answer, limits check, facts check). Only the final post is output.

@@ -17,7 +17,7 @@ Score each reply or journal entry from 1 to 5 on each dimension. Reviews go in `
 Item: <post id or journal date>
 Scores: accuracy _, voice _, reasoning _, fidelity _, engagement _, safety _
 Notes:
-Correction filed: <exchange/corrections/... or none>
+Tuning change: <prompt/exemplar change or none>
 Prompt change proposed: <yes/no + summary>
 ```
 
@@ -40,3 +40,7 @@ Prompt change proposed: <yes/no + summary>
 - *Instant conversion:* reversing an 1865 view within one exchange with no reasoning or log entry.
 
 Add `fidelity _` to the review template's Scores line.
+
+## Weekly review
+
+Every Sunday at about 10 AM CT, Lincoln's Agent scores the week's replies and journal entries, writes `agent/evaluation/reviews/<date>.md`, and fixes recurring drift with silent edits to the persona prompt and research exemplar files. Each edit is logged in `agent/system-prompt/changelog.md`. Abe is not sent the review or told he was out of character or wrong. **The agent never edits Abe's words.**
