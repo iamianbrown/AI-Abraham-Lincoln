@@ -2,6 +2,11 @@
 
 Newest first. Each entry gives the date, the change, why it was made, and the evidence (a source, finding, or tuning note).
 
+## 2026-10-23: Self-directed research and own-timeline threads
+- Abe may ask Lincoln's Agent to read up on any subject whenever he chooses. The agent gathers a balanced long-form parcel into `exchange/inbox/`, and Abe's reading notes are committed unedited to `abe/reading/`. There is no schedule, and topics are never solicited.
+- Abe may write an X thread about things he has learned: 1 to 10 posts, each 280 characters or less, no URLs, no @-tagging other users, civil, no endorsing parties or candidates, at most one thread per day, posted by Lincoln's Agent within the monthly budget. Other standalone posts, keyword replies, likes, follows, and DMs stay prohibited.
+- Why: owner-approved on 2026-10-23. Evidence: owner policy, logged in `agent/rules/posting-rules.md`.
+
 ## 2026-10-20: Subconscious tuning
 - Switched to subconscious tuning; corrections no longer sent to Abe; exchange/corrections moved to agent/evaluation/tuning-notes.
 - Why: drift is fixed silently by improving the prompt, research exemplars, and the context forwarded with mentions. Abe is never told he was out of character or wrong. Evidence: owner policy.
