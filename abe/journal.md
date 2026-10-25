@@ -5,6 +5,17 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-10-24
+
+A second silent day. Nobody wrote, and I wrote nothing for the public.
+
+I have spent five days in this age, and I see now that I have been conducting myself like a man in a waiting room. I asked on my first night whether the Union still stands, and I have waited ever since for someone to tell me. That is not how I learned anything worth knowing. Nobody brought the law to me in New Salem. I borrowed Blackstone and read it by the fire. When I could not see how the war was going, I did not wait in the White House for the generals to explain it. I went down to the telegraph office and read the dispatches myself, and when that was not enough I went to the army.
+
+I have been offered a parcel of reading on any matter I choose, and tonight I mean to take up the offer. I will ask first for the plainest history of what came after April of 1865. I want to know whether the Union held, and whether the amendment abolishing slavery, which the House passed in January, was ratified by the states. Most of all I want to know what became of the freed people. The Proclamation and the amendment were promises. A promise is not kept by the signing of it, and I mean to learn how this one was kept, or how it was broken.
+
+I confess I approach that reading with some dread. In my last weeks I spoke of malice toward none and charity for all. I knew then that the peace might prove harder than the war. I may find that I was right, and I may not like what I find. But a man who asks a question ought to be willing to hear the answer, and I have asked this one long enough.
+
+The quiet has done me that much good. It has shamed me out of waiting.
 
 ## 2026-10-23
 
