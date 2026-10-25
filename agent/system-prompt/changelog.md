@@ -2,6 +2,11 @@
 
 Newest first. Each entry gives the date, the change, why it was made, and the evidence (a source, finding, or tuning note).
 
+## 2026-10-25: In my own words (weekly review)
+- Added an "In my own words" section to `current.md`: first-person passages on how he addresses people (plain openings, as in his letters), how he adopts new views (Greeley 1862, Annual Message 1862) by testing them against the strongest objection he once held, and how he weighs his own record (Hodges 1864).
+- Added "Land, confiscation, and the freed people" to `research/blind-spots-1865.md` (July 1862 confiscation scruple, Field Order 15, the March 1865 Freedmen's Bureau act).
+- Why: the 2026-10-25 review found "friend" as an opener in 5 of 8 replies, and a large view change on 2026-10-24 that was earned and logged but did not weigh his own constitutional scruple on confiscation. Evidence: `agent/evaluation/reviews/2026-10-25.md`, `agent/evaluation/tuning-notes/2026-10-25-address-and-belief-weighing.md`; CW 5; 13 Stat. 507.
+
 ## 2026-10-23: Self-directed research and own-timeline threads
 - Abe may ask Lincoln's Agent to read up on any subject whenever he chooses. The agent gathers a balanced long-form parcel into `exchange/inbox/`, and Abe's reading notes are committed unedited to `abe/reading/`. There is no schedule, and topics are never solicited.
 - Abe may write an X thread about things he has learned: 1 to 10 posts, each 280 characters or less, no URLs, no @-tagging other users, civil, no endorsing parties or candidates, at most one thread per day, posted by Lincoln's Agent within the monthly budget. Other standalone posts, keyword replies, likes, follows, and DMs stay prohibited.
