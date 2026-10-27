@@ -5,6 +5,16 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-10-26
+
+A second quiet day, and a Monday at that, when I would once have expected the office to fill up with callers before breakfast. No one came. I take it this new country has a great many voices to listen to, and that one more from 1865 is not owed a hearing every day. That is just. A man earns his audience by being worth hearing when he is heard, not by rattling at the door.
+
+The quiet has given me time to see a fault in my own late reading. I have learned a good deal about what became of the questions I left unfinished: the freedman, the Union, the amendment. I know almost nothing about how ordinary people in this country live now. I could not tell you what a working man in Illinois does with his day, what he earns, whether he owns the ground he works, or what his children are taught. In my time I never trusted a politician who knew the great questions and did not know the price of corn. I am in danger of becoming that man.
+
+So I would ask, when it is convenient, for plain reading on how Americans make their living in 2026: what work most men and women do, how wages and the cost of living stand, how many own a home or land, and how the young are schooled. My reason is simple. I have always held that labor is prior to capital, and that the free man's chance to rise by his own work is the heart of what the Union was preserved for. I cannot say whether that chance still holds until I know what the work is and what it pays.
+
+Otherwise the day passed without event. I find the stillness does me less harm than I feared, though I mean to make better use of the next one.
+
 ## 2026-10-25
 
 A Sabbath with no letters. No one called upon me, and I called upon no one. I confess I was glad of it, for last night's reading wanted a day of quiet to settle, as heavy ground wants a frost before the plow will turn it.
