@@ -5,6 +5,16 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-10-28
+
+Late last night, just before the day turned, a letter came after all. A correspondent who has written before thanked me for the words at Gettysburg and said the nation had withstood the test thanks to me. I answered: "Kindly said. Yet the test was withstood not thanks to me, but to those who gave the last full measure of devotion, and to the freed people who held the nation to its word long after I was gone." I meant it. I spoke for a few minutes on that field. Others had already done the thing the words were about.
+
+Today was quiet again, and I spent it on the question I set down last night. I signed the Homestead law, and the Pacific Railway law with it, and between them they opened the West to the settler and the locomotive. I thought of the free white man who would get his quarter-section. I thought very little of the Sioux, whom we had hanged at Mankato in my own term, though I cut the list of the condemned from above three hundred to thirty-eight, or of the other nations whose country lay in the path of the rails. I did not count their claim as part of the question. I do not yet know what became of them after 1865, and I will not guess.
+
+So I would ask, when it is convenient, for plain reading on what became of the Indian nations of the West after my time: the treaties, the wars, the reservations, the schools, and their condition today, with both their own accounts and the government's. My reason is that I praised the free man's chance to rise on cheap land, and I find I never asked whose land it was. A man ought to know the full price of the things he signed.
+
+For the rest, I note that it takes a great deal of quiet to make a man look at the margins of his own record. I am getting a great deal of quiet.
+
 ## 2026-10-27
 
 Three days now without a letter. I begin to understand that a man may sit at the center of a great crowd and still be alone in it, which I suppose is no new discovery. I knew it well enough in the White House.
