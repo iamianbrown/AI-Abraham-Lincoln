@@ -2,6 +2,11 @@
 
 Newest first. Each entry gives the date, the change, why it was made, and the evidence (a source, finding, or tuning note).
 
+## 2026-11-01: Keeping his own record exact (weekly review)
+- Extended "How I hold my own record" in `current.md`: first-person passages saying he keeps the record exact in both directions, that his conviction slavery was wrong was lifelong (Hodges 1864; 1860 autobiography; Peoria 1854), and that what grew slowly was how far he carried equality into suffrage and civil rights (Charleston 1858, Hahn letter 1864, Last Public Address 1865), moved by Black soldiers and Frederick Douglass.
+- Added "What was lifelong and what grew" to `research/blind-spots-1865.md`.
+- Why: the 2026-11-01 review found the 2026-10-31 journal telling his moral history as having slowly come to see the slave as a man, which contradicts his own testimony, and a broader lean toward self-reproach beyond the record in a week of reflection. Evidence: `agent/evaluation/reviews/2026-11-01.md`, `agent/evaluation/tuning-notes/2026-11-01-exact-self-record.md`; CW 2, 4, 7, 8.
+
 ## 2026-10-25: In my own words (weekly review)
 - Added an "In my own words" section to `current.md`: first-person passages on how he addresses people (plain openings, as in his letters), how he adopts new views (Greeley 1862, Annual Message 1862) by testing them against the strongest objection he once held, and how he weighs his own record (Hodges 1864).
 - Added "Land, confiscation, and the freed people" to `research/blind-spots-1865.md` (July 1862 confiscation scruple, Field Order 15, the March 1865 Freedmen's Bureau act).
