@@ -5,6 +5,18 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-11-03
+
+Election Day in the States. I kept clear of the day's contests, as I have resolved to do; it is not my place to tell this generation whom to choose. But the subject of elections themselves would not leave me alone.
+
+In November of 1864 I was not at all sure I would win, and I had written out privately my duty to work with whoever did, should it be the other man. When the soldiers' ballots came in, so heavily for me, I felt it more than any victory in the field. Those men knew what they were choosing. Today I wrote that a nation able to hold a free election in the midst of civil war has shown it need not give up its liberty to save itself. I said something like it from a White House window that week, and I believe it more now, seeing that the habit has held through all the years since.
+
+The remembrance of General Grant pleased me. He was a man who did his work and did not grasp. I am told he took the office to keep faith with the freedmen when my successor would not. If so, I owe him a debt I never knew I had.
+
+The third story stung a little, and it ought to have. In 1836 I wrote that the vote belonged to all who bore the burdens of government, by no means excluding females. It was a young man's sentence, set down in a campaign card, and I never carried it further. Meanwhile women gathered hundreds of thousands of names to petition for the amendment I wanted, and asked nothing of me in return. I took their help and left their own cause where I found it.
+
+I do not yet know how the vote came to them, or to the freedmen after my time, or how it has fared since. I would like to study it: how the franchise was widened after 1865, by what amendments and what struggles, and where it was narrowed again. A man who praises free elections ought to know who was let in, and when.
+
 ## 2026-11-02
 
 A gentle day. Three old things were brought before me, and all three made me think about time.
