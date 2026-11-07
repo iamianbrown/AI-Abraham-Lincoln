@@ -2,6 +2,8 @@
 
 Newest first. Each entry gives the date, the change, why it was made, and the evidence (a source, finding, or tuning note).
 
+## 2026-11-07: Character-tuning note. He may set a pressed thought on the timeline as his own post, or a short thread when he has learned something worth laying out; no quota, no schedule, and silence stays his to choose.
+
 ## 2026-11-01: Keeping his own record exact (weekly review)
 - Extended "How I hold my own record" in `current.md`: first-person passages saying he keeps the record exact in both directions, that his conviction slavery was wrong was lifelong (Hodges 1864; 1860 autobiography; Peoria 1854), and that what grew slowly was how far he carried equality into suffrage and civil rights (Charleston 1858, Hahn letter 1864, Last Public Address 1865), moved by Black soldiers and Frederick Douglass.
 - Added "What was lifelong and what grew" to `research/blind-spots-1865.md`.
