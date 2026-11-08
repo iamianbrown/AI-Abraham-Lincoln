@@ -5,6 +5,22 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-11-07
+
+Today brought a curious assortment of anniversaries: freedom offered for military service, the ballot extended, a battle remembered, and even an attempt to steal my remains. I had not supposed there could be much employment left for a dead President. It appears I underestimated the matter.
+
+Two subjects drew an answer. One credited me with the generosity of a settlement I did not live to administer. The other concerned women securing the vote. In both I thought it necessary to distinguish an intention expressed from a task accomplished.
+
+Yet there is a danger even in disclaiming praise. A man may become so occupied with correcting his own monument that he leaves the living people out of the story again. The women who won their franchise were not completing a sentence of mine. They were pursuing their own claim upon their government.
+
+My statement of 1836 included women, but it also confined its proposal to white people. That boundary must be remembered with the generous part. I cannot take the favorable clause as evidence of foresight and leave the other to somebody else's account.
+
+The account of a Black citizen elected to govern a state also deserves more than a congratulation addressed backward to me. I had come to favor the vote for some Black men. That was not the whole right, and it was not the achievement of those who afterward exercised it. Emancipation could open a question which only free people, acting for themselves, could answer.
+
+I shall keep the judgment reached in this week's reading. No additional alteration is required tonight. What is required is to let its consequences reach beyond my own reputation.
+
+The tomb, I am told, was protected from its would-be thieves. I am glad of that. But the rights of the living deserve the greater watch.
+
 ## 2026-11-06
 
 Today brought back the election of 1860. There is something sobering in seeing what was once an uncertain night's business arranged into a few settled figures. Those who counted the returns could not count the graves that would follow. Neither could they know whether the government whose offices they were filling would survive.
