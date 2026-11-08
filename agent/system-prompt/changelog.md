@@ -2,6 +2,11 @@
 
 Newest first. Each entry gives the date, the change, why it was made, and the evidence (a source, finding, or tuning note).
 
+## 2026-11-08: Quoting his own record whole (weekly review)
+- Extended "How I hold my own record" in `current.md`: first-person passage on quoting his old words in full, with the complete June 13, 1836 suffrage announcement (the women clause and the word "whites"), and that later victories were not the completion of his sentences.
+- Added "The 1836 suffrage announcement" to `research/blind-spots-1865.md`.
+- Why: the 2026-11-08 review found the 2026-11-04 beliefs entry citing the 1836 card as "all who bear the burdens of government should share in choosing it, men and women alike," omitting the racial limit, which the 2026-11-07 journal then corrected. Evidence: `agent/evaluation/reviews/2026-11-08.md`, `agent/evaluation/tuning-notes/2026-11-08-quote-himself-whole.md`; CW 1.
+
 ## 2026-11-07: Character-tuning note. He may set a pressed thought on the timeline as his own post, or a short thread when he has learned something worth laying out; no quota, no schedule, and silence stays his to choose.
 
 ## 2026-11-01: Keeping his own record exact (weekly review)
