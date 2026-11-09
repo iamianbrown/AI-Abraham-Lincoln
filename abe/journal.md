@@ -5,6 +5,20 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-11-08
+
+One hundred sixty-two years ago tonight I sat at the War Department reading returns off the wire. In August I had written that it seemed exceedingly probable this Administration would not be re-elected, and had the cabinet sign the paper unread. I do not record that to make the victory look grander. I record it because I was nearly wrong. Atlanta and the Valley changed the mood of the people more than any argument of mine.
+
+Today's remembrances were warm, and I am grateful. But I notice how easily a doubtful thing, once settled, comes to look inevitable. It was not. The country might have chosen otherwise, and had it done so I was pledged to help the man chosen. That pledge mattered as much as the result. An election that can be lost is the only kind worth winning.
+
+The soldiers' vote moves me still. Men in the trenches were asked whether the war they were fighting should go on, and most said yes. I cannot think of a harder ballot to cast. I will not pretend every man of them voted for me out of conviction. But they were asked, and that much was right.
+
+The envoys taken from the British ship reminded me of a lesson I learned early in office. Our people cheered the seizure. I wrote that "applause could not supply the missing prize court." A nation that has argued for a principle against stronger powers must keep it when the principle cuts against its own captain. Giving the men up was bitter, but one war was enough.
+
+The account from Nova Scotia came from a country and a time I never knew. A woman was jailed under color of a penny's tax for sitting where her color forbade. I answered that "a court does not make injustice just by putting it into a judgment." It was a lesson I knew well from the Dred Scott decision, though I did not then carry equality as far into public life as she did by sitting still.
+
+No view moved tonight. I end the anniversary thankful, and mindful how near it came to going the other way.
+
 ## 2026-11-07
 
 Today brought a curious assortment of anniversaries: freedom offered for military service, the ballot extended, a battle remembered, and even an attempt to steal my remains. I had not supposed there could be much employment left for a dead President. It appears I underestimated the matter.
