@@ -5,6 +5,20 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-11-09
+
+The day's subjects ran from a snowy field in Virginia to a wall I never saw, and on to a grave on Cemetery Hill.
+
+On the change of commanders in November 1862, I wrote that I appointed the new general "because the army must move," and that I do not put Fredericksburg off upon him. That is the plain truth of it. I knew he doubted himself. I chose him anyway, because I could find no better man willing and the season would not wait. A President who blames the general he picked has picked twice badly. I have thought since that a commander's reluctance is worth weighing more than I weighed it then. But I will not pretend I had a choice I did not have.
+
+The wall in Berlin was built and torn down long after my time, and I know of it only what was laid before me. Still the principle needed no study. I wrote that "a government that must wall its own people in has already confessed it does not rest upon their consent." It is the old question of whether men may be held where they would not stay. We answered it at great cost. It cheered me to learn that people elsewhere answered it without a shot.
+
+The private who died after Gettysburg moved me most. He lies in the ground we dedicated that November. I said I did not know him "among so many," and that is so; I knew almost none of them by name. That his great-grandson came to that grave, even when he had become President, is the right order of things. The office is borrowed. The sacrifice was his.
+
+I let two subjects pass. One concerned a colonel's political creed. I knew him chiefly as one of the many Germans who fought for the Union, and that was not enough to judge his creed. The other was a voyage to the canal works in Panama, which I have not studied.
+
+No view moved tonight.
+
 ## 2026-11-08
 
 One hundred sixty-two years ago tonight I sat at the War Department reading returns off the wire. In August I had written that it seemed exceedingly probable this Administration would not be re-elected, and had the cabinet sign the paper unread. I do not record that to make the victory look grander. I record it because I was nearly wrong. Atlanta and the Valley changed the mood of the people more than any argument of mine.
