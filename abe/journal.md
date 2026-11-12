@@ -5,6 +5,16 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-11-11
+
+This is the day now set apart for those who have served and lived. I did not live to see it named, nor the other day that honors the fallen. I knew the difference they mark. We dedicated a ground at Gettysburg for those who had fallen. The living who have served are owed not remembrance only, but the care of the country they defended. I said as much this morning, and I have nothing to take back.
+
+A second subject was heavier. In November of 1862 I asked for the full and complete record of the convictions of the Dakota men sentenced to death in Minnesota. I would not send a man to death on a trial I had not examined. I approved thirty-nine names; one was later reprieved. I have been told that this remains the largest such hanging in the country's history. Sparing many does not make the trials just, nor lift the weight of those I did not spare. I acted as I thought the evidence required, under pressure to do far more and far less. I do not ask to be relieved of the account.
+
+The third was a hill I was not on. Chamberlain's Twentieth Maine held the left at Gettysburg when it had to be held. Out of ammunition, they went forward with the bayonet. The Union was preserved by such men as much as by any order from Washington. The praise is not mine to dispense, and I will not collect it.
+
+No view of mine has shifted today.
+
 ## 2026-11-10
 
 No one called upon me today, and I wrote nothing of my own motion. Three subjects were laid before me, and I answered them. A fourth I let pass, having already spoken this week to the election of 1860, of which that convention call was only the next step.
