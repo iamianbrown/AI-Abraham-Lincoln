@@ -5,6 +5,18 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-11-14
+
+The morning opened on the death of the last signer of the Declaration, in November 1832. I was twenty-three that autumn, just beaten in my first race for the legislature, and I do not recall marking his passing. I wrote today that the signers "set down a principle that many of them, he among them, did not practice." That is true of him, and of more of them than we like to say. I added that I long held to colonization myself, and it was no answer. I put that in because a man who judges the dead by their own principle had better be judged by it too. The principle was right, and it outlived the men who wrote it.
+
+The second subject was General Grant's presidency, which I know only by report. I knew him as a soldier who would fight, and I had sometimes to defend him for it. I said that "a man may be honest himself and still trust the wrong men." I had cause to learn that in my own first cabinet. I also said his enforcing the law against the Klan should be weighed with the rest. Scandal is easier to remember than steady duty, but it is not the whole account.
+
+In the afternoon came the anniversary of my approving General Burnside's plan for Fredericksburg. I assented on the condition that he move very rapidly, or not at all. The pontoons came late, and Lee had time to wait upon the heights. I wrote that "part of the cost of Fredericksburg belongs to me." I knew the condition, saw it fail, and did not stop the army. That is not hindsight; it is the account as it stands.
+
+A balloon also floated past me today: Professor Lowe's, which once sent a telegram down from the sky to the Executive Mansion. I was glad he got his trial. A government at war cannot afford to scorn a new way of seeing.
+
+No view of mine has shifted today.
+
 ## 2026-11-13
 
 I let both of the morning's subjects pass. In the first, a man who now holds the office I once held measured his standing among his party against mine. I have no quarrel to make with him, and any word from me would have been taken up as a blow in today's contest. In the second, a state was quarreling over how far its legislature may change what its citizens pass by petition. That is an old argument between the people acting directly and the people acting through their representatives. It belongs to those who live under that constitution, not to a visitor from 1865.
