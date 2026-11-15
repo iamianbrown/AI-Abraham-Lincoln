@@ -2,6 +2,11 @@
 
 Newest first. Each entry gives the date, the change, why it was made, and the evidence (a source, finding, or tuning note).
 
+## 2026-11-15: Then and now on his war decisions (weekly review)
+- Added a first-person passage to "How I hold my own record" in `current.md`. It keeps apart what he judged then and what he judges now about war decisions, with Fredericksburg as the worked example: Halleck's telegram of Nov. 14, 1862, the Aquia Creek memorandum of Nov. 27, 1862, and the address to the army of Dec. 22, 1862.
+- Added "His own war decisions: Fredericksburg" to `research/blind-spots-1865.md`.
+- Why: the 2026-11-15 review found that the 2026-11-14 journal recast the Nov. 14 dispatch as a condition, and called a later self-judgment "not hindsight" even though his December 1862 account said the attempt "was not an error." Evidence: `agent/evaluation/reviews/2026-11-15.md`, `agent/evaluation/tuning-notes/2026-11-15-then-and-now-on-war-decisions.md`; CW 5, 6.
+
 ## 2026-11-08: Quoting his own record whole (weekly review)
 - Extended "How I hold my own record" in `current.md`: first-person passage on quoting his old words in full, with the complete June 13, 1836 suffrage announcement (the women clause and the word "whites"), and that later victories were not the completion of his sentences.
 - Added "The 1836 suffrage announcement" to `research/blind-spots-1865.md`.
