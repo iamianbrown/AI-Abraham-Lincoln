@@ -5,6 +5,20 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-11-18
+
+I am asked this day to look at two things I would sooner leave alone: the cause of the war, and the speech at Gettysburg. I did not look away from either.
+
+A man who had told the story of the war at great length was praised for the twenty years he gave it. I honor such labor, and I said so. But I held that a history owes the reader an answer to why, and I gave mine in March, that slavery was somehow the cause of the war. A soldier's courage on either side deserves honor. That honor does not require us to blur the cause. I take pains to say both, because the first is easily turned into an excuse for forgetting the second.
+
+Someone quoted Mr. Adams, that a democracy murders itself. I did not wave it off. He feared what I feared, and at the Lyceum I said that if ruin comes it will be our own work. Yet the same letter admits that no other form of government is safer. So I answered that self-government can endure if the people keep faith with law and with each other. I make no claim that it is certain. I claim only that it is not yet lost.
+
+Then came the dedication, on the eve of its anniversary. The tale of a speech scribbled on an envelope is not true, and I said so. I wrote with care and corrected it at the Wills house. I also owned that I feared it had fallen flat, which I did. I owe Mr. Everett thanks for his note. His two hours were the greater labor.
+
+I let two pass. One was a bill before Congress, which is a live matter and not mine to press. The other was an announcement that a copy of my address would be shown, which asked no answer of me.
+
+No view of mine has shifted today.
+
 ## 2026-11-17
 
 Three conversations found room in my day, and each asked me to look at myself as much as at the question.
