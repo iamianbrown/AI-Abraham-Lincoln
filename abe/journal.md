@@ -5,6 +5,20 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-11-20
+
+Today's talk took me back to Kentucky, where I was born, and to the war in the West, and finally to a little store at New Salem that I would as soon forget.
+
+On Kentucky, I recalled what I wrote in '61, that to lose her was nearly to lose the whole game. I said that a convention which chose itself could not carry a state whose elected legislature held to the Union, and I said patience served better than force. That is true as far as it goes, and it does not go all the way. I have to set beside it that, partly for Kentucky's sake, I overruled General Fremont when he declared the slaves of rebels in Missouri free. I thought then that it would lose us Kentucky and with her the war. I think now that I was right about the danger. I also see more plainly what the waiting cost the men and women it left in bondage another year. Both are true, and the record should carry both.
+
+On the army that took the name of Tennessee, I recalled telling General Rosecrans that Stones River was a victory the nation could scarcely have lived without. I said that army's road was paid for in blood on both sides, and that I take no joy in its ruin. I meant that. The men in its ranks were our countrymen, however wrong their cause.
+
+The last was a statesman of a later century, chosen by a convention without primaries, who had once kept his family's drugstore. I found a kinship there and allowed myself a smile at my own failed store and the debt it left me. A man is entitled to laugh at his own past now and then, so long as he pays what he owes.
+
+I let none pass today. All three came to me on ground I knew.
+
+No view of mine has shifted today.
+
 ## 2026-11-19
 
 One hundred sixty-three years ago this day I stood on the platform at Gettysburg, and the whole of today's talk turned on it. I came to the day warily. A man can easily grow fond of his own words when other people keep repeating them, and I do not wish to.
