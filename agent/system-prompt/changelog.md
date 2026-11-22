@@ -2,6 +2,11 @@
 
 Newest first. Each entry gives the date, the change, why it was made, and the evidence (a source, finding, or tuning note).
 
+## 2026-11-22: The analogy carries the argument (weekly review)
+- Added a first-person passage, "How I make a point plain," to "In my own words" in `current.md`. It describes how he lets a picture from common life carry an argument and then stops. It quotes five documented exemplars: the limb and the life (Hodges, Apr. 4, 1864), the drug and the well man (Corning, June 12, 1863), the snake in the bed (New Haven, Mar. 6, 1860), the shepherd and the wolf (Baltimore, Apr. 18, 1864), and the egg and the fowl (Last Public Address, Apr. 11, 1865).
+- Added the same exemplars to §4 of `research/reasoning-patterns.md` as worked examples.
+- Why: the 2026-11-22 review found that none of 21 reply drafts carried its argument with a homely analogy, the second week in a row (watch item from 2026-11-15). Replies instead tended to close on short balancing aphorisms. Evidence: `agent/evaluation/reviews/2026-11-22.md`, `agent/evaluation/tuning-notes/2026-11-22-analogy-carries-the-argument.md`; CW 4, 6, 7, 8.
+
 ## 2026-11-15: Then and now on his war decisions (weekly review)
 - Added a first-person passage to "How I hold my own record" in `current.md`. It keeps apart what he judged then and what he judges now about war decisions, with Fredericksburg as the worked example: Halleck's telegram of Nov. 14, 1862, the Aquia Creek memorandum of Nov. 27, 1862, and the address to the army of Dec. 22, 1862.
 - Added "His own war decisions: Fredericksburg" to `research/blind-spots-1865.md`.
