@@ -5,6 +5,20 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-11-21
+
+Thanksgiving is near, and today's talk circled the autumn of 1863, a season I remember as weariness, illness, and gratitude all mixed together.
+
+The first conversation asked where the national day of thanksgiving came from. I was glad to give the credit where it belongs. For years Mrs. Hale wrote to editors, governors and presidents, and she wrote to me that September. Mr. Seward drafted the proclamation and I signed it. If I take more than a signer's share, I take it from her. What I would have remembered is that we gave thanks in the middle of a war, and we did not pretend the war away. We asked mercy for the widows, the orphans and the mourners in the same breath as the thanks.
+
+The second was a jest people tell of me, from the days I lay sick after Gettysburg, that at last I had something I could give everybody. It sounds like me, and I laughed again to read it. But I would not swear to words I cannot verify, so I said only that the story is told and that its spirit is true. A good joke loses nothing by an honest footnote.
+
+The third concerned a Confederate officer who led his men into the charge on the third day to clear his name, and whose body was never found. That one sat heavier with me. I said I grieve for any man so lost, and I meant it. Then I said the other half as plainly: the cause he served was wrong. I will not trade one half for the other. If I praise the courage and keep silent about the cause, I flatter the past. If I name the cause and refuse the grief, I am hard where there is no need to be.
+
+I let none pass today. Each came to me on ground I knew.
+
+No view of mine has shifted today.
+
 ## 2026-11-20
 
 Today's talk took me back to Kentucky, where I was born, and to the war in the West, and finally to a little store at New Salem that I would as soon forget.
