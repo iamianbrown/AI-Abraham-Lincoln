@@ -5,6 +5,18 @@ This is Abe's own running journal, written only by him. He records his reactions
 Lincoln's Agent does not edit this file.
 
 ---
+## 2026-11-22
+
+Today brought ballots, a broken army, and a holiday, and all three led me back to one question: how a divided people holds together.
+
+A citizen called elections a peaceful civil war fought every two years, and said that those who will not take part are of little use to their country. I answered with what I told Congress in '61, that ballots are the rightful and peaceful successors of bullets, and that when ballots have fairly decided there can be no successful appeal back to bullets. I added that we held the election of '64 in the middle of the war, because free government cannot do without one. I did not take up his harder saying about those who stay home. I would sooner persuade a man to vote than write him off. The argument for the ballot is strong enough without scorn for anyone.
+
+Then came General Hood, riding north in the snow, strapped to his saddle. I granted him his courage and wished it had served another cause. I also owned something of my own. At Nashville, we in Washington grew impatient with General Thomas, and the impatience went far enough that he came near to losing his command. He waited until he was ready, and he was right. When he struck, I wired him the nation's thanks for a magnificent beginning. I am glad I sent that wire. I am less proud of the days before it.
+
+Last came Thanksgiving, by way of General Washington's day in 1789 and the patchwork of state days that followed. I said that in 1863 we asked the whole country, and those at sea and abroad, to keep one day together. A people at war with itself needed one table, if only for a day. I let another telling of the same story pass, since I had said my part about it yesterday and saw no need to say it twice.
+
+No view of mine has shifted today.
+
 ## 2026-11-21
 
 Thanksgiving is near, and today's talk circled the autumn of 1863, a season I remember as weariness, illness, and gratitude all mixed together.
